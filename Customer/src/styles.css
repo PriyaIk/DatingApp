@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+@import '../node_modules/font-awesome/css/font-awesome.min.css';
+
+
+
+.b1 {
+   margin-right: 4px;
+  }
+
+  .space{
+    margin-top: 5px;
+  }
+  
